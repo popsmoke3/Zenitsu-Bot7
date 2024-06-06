@@ -10,7 +10,7 @@ global.location = "India, West Bengal, Darjeeling" //ur location
 
 //new
 global.botname = 'Zenitsu-Bot' //ur bot name
-global.ownernumber = '917029257330' //ur owner number
+global.ownernumber = '33780936436' //ur owner number
 global.ownername = '🦄Dream Guy Deepak' //ur owner name
 global.websitex = "https://youtube.com/@dreamguydeepak"
 global.wagc = "https://whatsapp.com/channel/0029VaDEDUaC6ZvewFKv6835"
@@ -21,14 +21,14 @@ global.packname = "Sticker By"
 global.author = "🦄Dream Guy Deepak"
 global.creator = "917029257330@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["917029257330","918348225320"] // Premium User
+global.premium = ["33780936436","33780936436"] // Premium User
 global.hituet = 0
 
 //bot sett
 global.typemenu = 'v1' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
-global.autoblocknumber = '92' //set autoblock country code
-global.antiforeignnumber = '91' //set anti foreign number country code
+global.autoblocknumber = '225' //set autoblock country code
+global.antiforeignnumber = '225' //set anti foreign number country code
 global.welcome = true //welcome/left in groups
 global.anticall = true //bot blocks user when called
 global.autoswview = false //auto status/story view
